@@ -1,0 +1,61 @@
+{
+  "slug": "yu-mei-ren",
+  "title": "虞美人·春花秋月",
+  "pinyin": "Yú Měi Rén · Chūn Huā Qiū Yuè",
+  "englishTitle": "Yu Meiren: Spring Flowers and Autumn Moon",
+  "author": "Li Yu",
+  "authorPinyin": "Lǐ Yù",
+  "authorCn": "李煜",
+  "dynasty": "Five Dynasties",
+  "difficulty": 5,
+  "themes": ["nostalgia", "loss", "moon", "kingdom"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/yu-mei-ren/full.mp3",
+    "lines": [
+      "/audio/poems/yu-mei-ren/line-1.mp3",
+      "/audio/poems/yu-mei-ren/line-2.mp3",
+      "/audio/poems/yu-mei-ren/line-3.mp3",
+      "/audio/poems/yu-mei-ren/line-4.mp3",
+      "/audio/poems/yu-mei-ren/line-5.mp3",
+      "/audio/poems/yu-mei-ren/line-6.mp3",
+      "/audio/poems/yu-mei-ren/line-7.mp3",
+      "/audio/poems/yu-mei-ren/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "春花秋月何时了",
+      "往事知多少",
+      "小楼昨夜又东风",
+      "故国不堪回首月明中",
+      "雕栏玉砌应犹在",
+      "只是朱颜改",
+      "问君能有几多愁",
+      "恰似一江春水向东流"
+    ],
+    "translation": [
+      "when will the spring flowers and autumn moon ever end",
+      "how much of the past do i still remember",
+      "the east wind visited my little tower again last night",
+      "i cannot bear to look back at my lost kingdom under the bright moon",
+      "the carved railings and jade steps should still be there",
+      "only the rosy faces have changed",
+      "i ask you, how much sorrow can a person hold",
+      "just like a river of spring water flowing east"
+    ],
+    "pinyinLines": [
+      ["chūn", "huā", "qiū", "yuè", "hé", "shí", "liǎo"],
+      ["wǎng", "shì", "zhī", "duō", "shǎo"],
+      ["xiǎo", "lóu", "zuó", "yè", "yòu", "dōng", "fēng"],
+      ["gù", "guó", "bù", "kān", "huí", "shǒu", "yuè", "míng", "zhōng"],
+      ["diāo", "lán", "yù", "qì", "yīng", "yóu", "zài"],
+      ["zhǐ", "shì", "zhū", "yán", "gǎi"],
+      ["wèn", "jūn", "néng", "yǒu", "jǐ", "duō", "chóu"],
+      ["qià", "sì", "yì", "jiāng", "chūn", "shuǐ", "xiàng", "dōng", "liú"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Li Yu, the captured last ruler of the Southern Tang, asks why the beautiful cycle of spring flowers and autumn moon refuses to end when his kingdom has. The carved palace should still stand, but the faces he knew are gone, and his sorrow pours out like a river of spring water. The poem matters because it turns one man's political ruin into a universal image of irreversible loss.",
+  "relatedCulture": ["li-yu", "ci-poetry", "southern-tang", "loss-in-poetry"]
+}

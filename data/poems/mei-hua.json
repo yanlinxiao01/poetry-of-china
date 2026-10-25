@@ -1,0 +1,45 @@
+{
+  "slug": "mei-hua",
+  "title": "梅花",
+  "pinyin": "Méi Huā",
+  "englishTitle": "Plum Blossom",
+  "author": "Wang Anshi",
+  "authorPinyin": "Wáng Ānshí",
+  "authorCn": "王安石",
+  "dynasty": "Song",
+  "difficulty": 1,
+  "themes": ["plum-blossom", "winter", "integrity"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/mei-hua/full.mp3",
+    "lines": [
+      "/audio/poems/mei-hua/line-1.mp3",
+      "/audio/poems/mei-hua/line-2.mp3",
+      "/audio/poems/mei-hua/line-3.mp3",
+      "/audio/poems/mei-hua/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "墙角数枝梅",
+      "凌寒独自开",
+      "遥知不是雪",
+      "为有暗香来"
+    ],
+    "translation": [
+      "a few branches of plum stand by the corner wall",
+      "they open all alone in the bitter cold",
+      "from far off i know they are not snow",
+      "because a hidden fragrance drifts to me"
+    ],
+    "pinyinLines": [
+      ["qiáng", "jiǎo", "shù", "zhī", "méi"],
+      ["líng", "hán", "dú", "zì", "kāi"],
+      ["yáo", "zhī", "bù", "shì", "xuě"],
+      ["wèi", "yǒu", "àn", "xiāng", "lái"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "A plum tree blooms by a wall in deep winter, and the poet knows from its scent that the white on the branches is flower, not snow. The poem turns a small observation into a quiet statement about character: beauty that survives the cold needs no audience. Its last line is one of the most quoted images of inner worth in Chinese poetry.",
+  "relatedCulture": ["plum-blossom-symbolism", "wang-anshi", "winter-imagery"]
+}

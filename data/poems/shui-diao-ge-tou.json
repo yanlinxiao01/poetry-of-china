@@ -1,0 +1,76 @@
+{
+  "slug": "shui-diao-ge-tou",
+  "title": "水调歌头",
+  "pinyin": "Shuǐ Diào Gē Tóu",
+  "englishTitle": "Prelude to Water Melody",
+  "author": "Su Shi",
+  "authorPinyin": "Sū Shì",
+  "authorCn": "苏轼",
+  "dynasty": "Song",
+  "difficulty": 6,
+  "themes": ["moon", "family", "reunion", "philosophy"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/shui-diao-ge-tou/full.mp3",
+    "lines": [
+      "/audio/poems/shui-diao-ge-tou/line-1.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-2.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-3.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-4.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-5.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-6.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-7.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-8.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-9.mp3",
+      "/audio/poems/shui-diao-ge-tou/line-10.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "明月几时有，把酒问青天",
+      "不知天上宫阙，今夕是何年",
+      "我欲乘风归去，又恐琼楼玉宇",
+      "高处不胜寒，起舞弄清影",
+      "何似在人间",
+      "转朱阁，低绮户，照无眠",
+      "不应有恨，何事长向别时圆",
+      "人有悲欢离合，月有阴晴圆缺",
+      "此事古难全，但愿人长久",
+      "千里共婵娟"
+    ],
+    "translation": [
+      "When did the bright moon first appear? I raise my wine to ask the blue sky",
+      "I wonder what year it is tonight in the palace halls of heaven",
+      "I wish to ride the wind and return there, but I fear those jade towers",
+      "So high up, I could not bear the cold — better to dance with my pure shadow",
+      "How much better to be in the mortal world",
+      "The moonlight passes through the red pavilion, slips by the ornate windows, shining on the sleepless",
+      "There should be no complaints — why then is the moon full when we are apart?",
+      "People have sorrow and joy, separation and reunion; the moon has dark and bright phases",
+      "This has never been perfect since ancient times — I only wish people stay well",
+      "Though a thousand miles apart, we share her beauty together"
+    ],
+    "pinyinLines": [
+      ["míng", "yuè", "jǐ", "shí", "yǒu", "bǎ", "jiǔ", "wèn", "qīng", "tiān"],
+      ["bù", "zhī", "tiān", "shàng", "gōng", "què", "jīn", "xī", "shì", "hé", "nián"],
+      ["wǒ", "yù", "chéng", "fēng", "guī", "qù", "yòu", "kǒng", "qióng", "lóu", "yù", "yǔ"],
+      ["gāo", "chù", "bù", "shèng", "hán", "qǐ", "wǔ", "nòng", "qīng", "yǐng"],
+      ["hé", "sì", "zài", "rén", "jiān"],
+      ["zhuǎn", "zhū", "gé", "dī", "qǐ", "hù", "zhào", "wú", "mián"],
+      ["bù", "yīng", "yǒu", "hèn", "hé", "shì", "cháng", "xiàng", "bié", "shí", "yuán"],
+      ["rén", "yǒu", "bēi", "huān", "lí", "hé", "yuè", "yǒu", "yīn", "qíng", "yuán", "quē"],
+      ["cǐ", "shì", "gǔ", "nán", "quán", "dàn", "yuàn", "rén", "cháng", "jiǔ"],
+      ["qiān", "lǐ", "gòng", "chán", "juān"]
+    ]
+  },
+  "annotations": {
+    "把酒": "raise my wine cup",
+    "宫阙": "palace halls",
+    "琼楼玉宇": "jade towers — beautiful palaces in heaven",
+    "不胜寒": "cannot bear the cold — loneliness in high places",
+    "弄清影": "dance with my pure shadow",
+    "婵娟": "beauty, referring to the moon — the desire to be reunited with loved ones"
+  },
+  "appreciation": "This is Su Shi's most famous poem, written on Mid-Autumn Festival when he was separated from his brother. The poem expresses longing for reunion while accepting the imperfection of life. The famous line 'May people live long, a thousand miles apart, sharing her beauty' has become a blessing for loved ones separated by distance.",
+  "relatedCulture": ["moon-in-chinese-poetry", "mid-autumn-festival", "su-shi", "family-in-poetry"]
+}

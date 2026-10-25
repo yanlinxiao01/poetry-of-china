@@ -1,0 +1,86 @@
+{
+  "slug": "qing-yu-an-yuan-xi",
+  "title": "青玉案·元夕",
+  "pinyin": "Qīng Yù Àn · Yuán Xī",
+  "englishTitle": "The Lantern Festival Night",
+  "author": "Xin Qiji",
+  "authorPinyin": "Xīn Qìjí",
+  "authorCn": "辛弃疾",
+  "dynasty": "Song",
+  "difficulty": 5,
+  "themes": ["festival", "love", "lantern"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/qing-yu-an-yuan-xi/full.mp3",
+    "lines": [
+      "/audio/poems/qing-yu-an-yuan-xi/line-1.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-2.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-3.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-4.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-5.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-6.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-7.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-8.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-9.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-10.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-11.mp3",
+      "/audio/poems/qing-yu-an-yuan-xi/line-12.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "东风夜放花千树",
+      "更吹落星如雨",
+      "宝马雕车香满路",
+      "凤箫声动",
+      "玉壶光转",
+      "一夜鱼龙舞",
+      "蛾儿雪柳黄金缕",
+      "笑语盈盈暗香去",
+      "众里寻他千百度",
+      "蓦然回首",
+      "那人却在",
+      "灯火阑珊处"
+    ],
+    "translation": [
+      "The east wind at night bursts open a thousand trees of flowers",
+      "And blows down stars like rain",
+      "Fine steeds and carved carriages, fragrance fills the road",
+      "Phoenix flutes resound",
+      "The moon's jade pot turns its light",
+      "All night, fish and dragon lanterns dance",
+      "Moth-ornaments, snow-willows, threads of gold in their hair",
+      "Laughing, chatting, they pass, leaving a trail of hidden scent",
+      "In the crowd I searched for her a thousand times",
+      "Suddenly, turning my head",
+      "There she was",
+      "Where the lantern light was dimmest"
+    ],
+    "pinyinLines": [
+      ["dōng", "fēng", "yè", "fàng", "huā", "qiān", "shù"],
+      ["gèng", "chuī", "luò", "xīng", "rú", "yǔ"],
+      ["bǎo", "mǎ", "diāo", "chē", "xiāng", "mǎn", "lù"],
+      ["fèng", "xiāo", "shēng", "dòng"],
+      ["yù", "hú", "guāng", "zhuǎn"],
+      ["yí", "yè", "yú", "lóng", "wǔ"],
+      ["é", "ér", "xuě", "liǔ", "huáng", "jīn", "lǚ"],
+      ["xiào", "yǔ", "yíng", "yíng", "àn", "xiāng", "qù"],
+      ["zhòng", "lǐ", "xún", "tā", "qiān", "bǎi", "dù"],
+      ["mò", "rán", "huí", "shǒu"],
+      ["nà", "rén", "què", "zài"],
+      ["dēng", "huǒ", "lán", "shān", "chù"]
+    ]
+  },
+  "annotations": {
+    "元夕": "the Lantern Festival — 15th night of the first lunar month",
+    "花千树": "a thousand trees of flowers — the blaze of countless lanterns and fireworks",
+    "星如雨": "stars falling like rain — sparks of fireworks",
+    "玉壶": "jade pot — a metaphor for the moon",
+    "鱼龙舞": "fish and dragon lantern dances",
+    "蛾儿雪柳黄金缕": "women's festival ornaments — moth hairpins, willow threads, gold filigree",
+    "蓦然": "mò rán — suddenly, without warning",
+    "阑珊": "lán shān — fading, dying down, sparse"
+  },
+  "appreciation": "Xin Qiji spends eleven lines building the loudest, brightest, most crowded night of the year — fireworks, music, perfume, dancing lanterns — then finds the person he was looking for standing alone where the light is dimmest. The twist at the end is so perfect that '蓦然回首，那人却在灯火阑珊处' became the Chinese language's way of saying: what you seek is found when you stop chasing the noise.",
+  "relatedCulture": ["lantern-festival", "ci-poetry", "xin-qiji", "wang-guowei-three-realms"]
+}

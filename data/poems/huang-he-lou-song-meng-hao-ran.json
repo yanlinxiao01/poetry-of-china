@@ -1,0 +1,51 @@
+{
+  "slug": "huang-he-lou-song-meng-hao-ran",
+  "title": "黄鹤楼送孟浩然之广陵",
+  "pinyin": "Huáng Hè Lóu Sòng Mèng Hào Rán Zhī Guǎng Líng",
+  "englishTitle": "Seeing Meng Haoran Off at Yellow Crane Tower",
+  "author": "Li Bai",
+  "authorPinyin": "Lǐ Bái",
+  "authorCn": "李白",
+  "dynasty": "Tang",
+  "difficulty": 3,
+  "themes": ["farewell", "friendship", "river"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/huang-he-lou-song-meng-hao-ran/full.mp3",
+    "lines": [
+      "/audio/poems/huang-he-lou-song-meng-hao-ran/line-1.mp3",
+      "/audio/poems/huang-he-lou-song-meng-hao-ran/line-2.mp3",
+      "/audio/poems/huang-he-lou-song-meng-hao-ran/line-3.mp3",
+      "/audio/poems/huang-he-lou-song-meng-hao-ran/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "故人西辞黄鹤楼",
+      "烟花三月下扬州",
+      "孤帆远影碧空尽",
+      "唯见长江天际流"
+    ],
+    "translation": [
+      "My old friend leaves Yellow Crane Tower, heading west no more",
+      "In the misty blossoms of March, he sails down to Yangzhou",
+      "A lone sail, a distant shadow, vanishing into blue sky",
+      "All I see is the Yangtze, flowing to the edge of heaven"
+    ],
+    "pinyinLines": [
+      ["gù", "rén", "xī", "cí", "huáng", "hè", "lóu"],
+      ["yān", "huā", "sān", "yuè", "xià", "yáng", "zhōu"],
+      ["gū", "fān", "yuǎn", "yǐng", "bì", "kōng", "jìn"],
+      ["wéi", "jiàn", "cháng", "jiāng", "tiān", "jì", "liú"]
+    ]
+  },
+  "annotations": {
+    "故人": "old friend — Meng Haoran, a senior poet Li Bai deeply admired",
+    "烟花": "misty blossoms — the hazy bloom of late spring, not fireworks",
+    "下": "to go downstream, to travel down to",
+    "碧空尽": "to vanish at the end of the blue sky",
+    "唯见": "only see — the speaker keeps watching long after the boat is gone"
+  },
+  "appreciation": "A farewell poem where the goodbye is never spoken. Li Bai just stands there, watching his friend's sail shrink to a dot and disappear, until nothing is left but the river. The camera keeps rolling after the subject has left the frame — and that lingering shot is the friendship.",
+  "relatedCulture": ["yellow-crane-tower", "farewell-poetry", "li-bai-meng-haoran"]
+}

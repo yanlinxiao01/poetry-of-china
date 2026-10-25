@@ -1,0 +1,45 @@
+{
+  "slug": "cun-wan",
+  "title": "村晚",
+  "pinyin": "Cūn Wǎn",
+  "englishTitle": "Evening in the Village",
+  "author": "Lei Zhen",
+  "authorPinyin": "Léi Zhèn",
+  "authorCn": "雷震",
+  "dynasty": "Song",
+  "difficulty": 2,
+  "themes": ["village", "evening", "childhood"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/cun-wan/full.mp3",
+    "lines": [
+      "/audio/poems/cun-wan/line-1.mp3",
+      "/audio/poems/cun-wan/line-2.mp3",
+      "/audio/poems/cun-wan/line-3.mp3",
+      "/audio/poems/cun-wan/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "草满池塘水满陂",
+      "山衔落日浸寒漪",
+      "牧童归去横牛背",
+      "短笛无腔信口吹"
+    ],
+    "translation": [
+      "grass fills the pond and water brims the bank",
+      "the hills hold the setting sun and soak the cold ripples",
+      "a herding boy goes home, lying across his ox's back",
+      "a short flute plays whatever tune comes to his lips"
+    ],
+    "pinyinLines": [
+      ["cǎo", "mǎn", "chí", "táng", "shuǐ", "mǎn", "bēi"],
+      ["shān", "xián", "luò", "rì", "jìn", "hán", "yī"],
+      ["mù", "tóng", "guī", "qù", "héng", "niú", "bèi"],
+      ["duǎn", "dí", "wú", "qiāng", "xìn", "kǒu", "chuī"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "The pond, the hills holding the sun and the cold ripples make a still, luminous evening frame. Into it rides a shepherd boy lying sideways on his ox, playing a flute with no tune at all. The freedom of that careless music is the poem's real subject, and it makes the whole scene feel warm.",
+  "relatedCulture": ["pastoral-poetry", "village-life", "ox-and-flute"]
+}

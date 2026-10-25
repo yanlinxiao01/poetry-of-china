@@ -1,0 +1,68 @@
+{
+  "slug": "chun-wang",
+  "title": "春望",
+  "pinyin": "Chūn Wàng",
+  "englishTitle": "View in Spring",
+  "author": "Du Fu",
+  "authorPinyin": "Dù Fǔ",
+  "authorCn": "杜甫",
+  "dynasty": "Tang",
+  "difficulty": 4,
+  "themes": ["war", "patriotism", "sorrow"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/chun-wang/full.mp3",
+    "lines": [
+      "/audio/poems/chun-wang/line-1.mp3",
+      "/audio/poems/chun-wang/line-2.mp3",
+      "/audio/poems/chun-wang/line-3.mp3",
+      "/audio/poems/chun-wang/line-4.mp3",
+      "/audio/poems/chun-wang/line-5.mp3",
+      "/audio/poems/chun-wang/line-6.mp3",
+      "/audio/poems/chun-wang/line-7.mp3",
+      "/audio/poems/chun-wang/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "国破山河在",
+      "城春草木深",
+      "感时花溅泪",
+      "恨别鸟惊心",
+      "烽火连三月",
+      "家书抵万金",
+      "白头搔更短",
+      "浑欲不胜簪"
+    ],
+    "translation": [
+      "The state is broken, yet hills and rivers remain",
+      "Spring in the city: grass and trees grow wild",
+      "Grieved by the times, even flowers shed tears",
+      "Pained by parting, even birds startle the heart",
+      "Beacon fires have burned for three months straight",
+      "A letter from home is worth ten thousand gold",
+      "My white hair, scratched at, grows ever thinner",
+      "Soon it won't even hold a hairpin"
+    ],
+    "pinyinLines": [
+      ["guó", "pò", "shān", "hé", "zài"],
+      ["chéng", "chūn", "cǎo", "mù", "shēn"],
+      ["gǎn", "shí", "huā", "jiàn", "lèi"],
+      ["hèn", "bié", "niǎo", "jīng", "xīn"],
+      ["fēng", "huǒ", "lián", "sān", "yuè"],
+      ["jiā", "shū", "dǐ", "wàn", "jīn"],
+      ["bái", "tóu", "sāo", "gèng", "duǎn"],
+      ["hún", "yù", "bù", "shèng", "zān"]
+    ]
+  },
+  "annotations": {
+    "国破": "the state is broken — written during the An Lushan Rebellion, after the capital fell",
+    "溅泪": "to splash tears — flowers seem to weep, or the poet weeps at flowers; both readings coexist",
+    "烽火": "beacon fires — the ancient alarm system, here meaning continuous war",
+    "抵": "to be worth, to equal in value",
+    "搔": "sāo — to scratch (one's head, in worry)",
+    "浑欲不胜簪": "almost unable to hold a hairpin — hair so thin from anxiety it can't be pinned up"
+  },
+  "appreciation": "Du Fu's most devastating poem, written in the occupied capital Chang'an during the An Lushan Rebellion. Spring still arrives — but nature's indifference makes the ruin worse: the state is broken, 'yet hills and rivers remain.' The horror is domestic too: in wartime, a single letter from home outvalues gold. Eight lines, forty characters, and the whole sorrow of a civilization.",
+  "relatedCulture": ["an-lushan-rebellion", "du-fu-poet-historian", "regulated-verse"]
+}

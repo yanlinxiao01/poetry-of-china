@@ -1,0 +1,61 @@
+{
+  "slug": "chang-xiang-si-shan-yi-cheng",
+  "title": "长相思·山一程",
+  "pinyin": "Cháng Xiāng Sī · Shān Yī Chéng",
+  "englishTitle": "Everlasting Longing: The Mountain Road",
+  "author": "Nalan Xingde",
+  "authorPinyin": "Nàlán Xìngdé",
+  "authorCn": "纳兰性德",
+  "dynasty": "Qing",
+  "difficulty": 4,
+  "themes": ["homesickness", "travel", "winter"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/chang-xiang-si-shan-yi-cheng/full.mp3",
+    "lines": [
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-1.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-2.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-3.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-4.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-5.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-6.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-7.mp3",
+      "/audio/poems/chang-xiang-si-shan-yi-cheng/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "山一程",
+      "水一程",
+      "身向榆关那畔行",
+      "夜深千帐灯",
+      "风一更",
+      "雪一更",
+      "聒碎乡心梦不成",
+      "故园无此声"
+    ],
+    "translation": [
+      "a stretch of mountains",
+      "a stretch of water",
+      "we march toward the far side of the yuguan pass",
+      "deep in the night, a thousand tents are lit",
+      "a watch of wind",
+      "a watch of snow",
+      "the noise shatters my homesick heart and dreams will not come",
+      "back home there is no sound like this"
+    ],
+    "pinyinLines": [
+      ["shān", "yī", "chéng"],
+      ["shuǐ", "yī", "chéng"],
+      ["shēn", "xiàng", "yú", "guān", "nà", "pàn", "xíng"],
+      ["yè", "shēn", "qiān", "zhàng", "dēng"],
+      ["fēng", "yī", "gēng"],
+      ["xuě", "yī", "gēng"],
+      ["guō", "suì", "xiāng", "xīn", "mèng", "bù", "chéng"],
+      ["gù", "yuán", "wú", "cǐ", "shēng"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Nalan Xingde wrote this while travelling with the imperial escort beyond the pass, and the poem moves to the rhythm of the march. Mountains, rivers, wind and snow accumulate in parallel phrases until the noise of the storm breaks the dream that would have carried him home. Its plain language makes the homesickness feel immediate rather than literary.",
+  "relatedCulture": ["qing-ci-poetry", "nalan-xingde", "homesickness", "frontier-travel"]
+}

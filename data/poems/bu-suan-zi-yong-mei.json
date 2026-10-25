@@ -1,0 +1,67 @@
+{
+  "slug": "bu-suan-zi-yong-mei",
+  "title": "卜算子·咏梅",
+  "pinyin": "Bǔ Suàn Zǐ · Yǒng Méi",
+  "englishTitle": "Song of Divination: Ode to the Plum Blossom",
+  "author": "Lu You",
+  "authorPinyin": "Lù Yóu",
+  "authorCn": "陆游",
+  "dynasty": "Song",
+  "difficulty": 4,
+  "themes": ["plum-blossom", "integrity", "solitude", "perseverance"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/bu-suan-zi-yong-mei/full.mp3",
+    "lines": [
+      "/audio/poems/bu-suan-zi-yong-mei/line-1.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-2.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-3.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-4.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-5.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-6.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-7.mp3",
+      "/audio/poems/bu-suan-zi-yong-mei/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "驿外断桥边",
+      "寂寞开无主",
+      "已是黄昏独自愁",
+      "更著风和雨",
+      "无意苦争春",
+      "一任群芳妒",
+      "零落成泥碾作尘",
+      "只有香如故"
+    ],
+    "translation": [
+      "Beyond the post station, by the broken bridge",
+      "It blooms in loneliness, owned by no one",
+      "Already sorrowing alone at dusk",
+      "Wind and rain add to its burden",
+      "It has no wish to compete for spring",
+      "Let the other flowers envy as they will",
+      "Fallen, ground into mud and dust",
+      "Its fragrance remains unchanged"
+    ],
+    "pinyinLines": [
+      ["yì", "wài", "duàn", "qiáo", "biān"],
+      ["jì", "mò", "kāi", "wú", "zhǔ"],
+      ["yǐ", "shì", "huáng", "hūn", "dú", "zì", "chóu"],
+      ["gèng", "zhuó", "fēng", "hé", "yǔ"],
+      ["wú", "yì", "kǔ", "zhēng", "chūn"],
+      ["yī", "rèn", "qún", "fāng", "dù"],
+      ["líng", "luò", "chéng", "ní", "niǎn", "zuò", "chén"],
+      ["zhǐ", "yǒu", "xiāng", "rú", "gù"]
+    ]
+  },
+  "annotations": {
+    "驿外": "beyond the post station — a remote, deserted place",
+    "无主": "without an owner — blooming for no one",
+    "更著": "and furthermore adds — piling on hardship",
+    "争春": "compete for spring — rival other flowers",
+    "碾作尘": "ground into dust — utterly destroyed"
+  },
+  "appreciation": "The plum blossom blooms in winter, so poets use it as a symbol of integrity under pressure. Lu You, repeatedly sidelined in his political career, saw himself in this lonely flower by a broken bridge: crushed into mud, yet its fragrance — its character — never changes. Chairman Mao later wrote a famous reply poem with the opposite spirit.",
+  "relatedCulture": ["plum-blossom-symbolism", "lu-you", "ci-poetry", "scholar-integrity"]
+}

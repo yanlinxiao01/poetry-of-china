@@ -1,0 +1,45 @@
+{
+  "slug": "bo-chuan-gua-zhou",
+  "title": "泊船瓜洲",
+  "pinyin": "Bó Chuán Guā Zhōu",
+  "englishTitle": "Mooring at Guazhou",
+  "author": "Wang Anshi",
+  "authorPinyin": "Wáng Ānshí",
+  "authorCn": "王安石",
+  "dynasty": "Song",
+  "difficulty": 3,
+  "themes": ["homesickness", "spring", "travel"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/bo-chuan-gua-zhou/full.mp3",
+    "lines": [
+      "/audio/poems/bo-chuan-gua-zhou/line-1.mp3",
+      "/audio/poems/bo-chuan-gua-zhou/line-2.mp3",
+      "/audio/poems/bo-chuan-gua-zhou/line-3.mp3",
+      "/audio/poems/bo-chuan-gua-zhou/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "京口瓜洲一水间",
+      "钟山只隔数重山",
+      "春风又绿江南岸",
+      "明月何时照我还"
+    ],
+    "translation": [
+      "jingkou and guazhou are parted by one stretch of river",
+      "zhongshan lies only a few ridges of hills away",
+      "the spring wind has greened the southern bank again",
+      "when will the bright moon light my way home"
+    ],
+    "pinyinLines": [
+      ["jīng", "kǒu", "guā", "zhōu", "yī", "shuǐ", "jiān"],
+      ["zhōng", "shān", "zhǐ", "gé", "shù", "chóng", "shān"],
+      ["chūn", "fēng", "yòu", "lǜ", "jiāng", "nán", "àn"],
+      ["míng", "yuè", "hé", "shí", "zhào", "wǒ", "huán"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Mooring across the river from the capital region, Wang Anshi measures home in distances that seem short yet cannot be crossed. The third line, where spring wind 'greens' the bank, is celebrated for its single vivid verb, revised many times by the poet. The closing question to the moon turns a landscape into longing.",
+  "relatedCulture": ["homesickness", "spring-imagery", "wang-anshi"]
+}

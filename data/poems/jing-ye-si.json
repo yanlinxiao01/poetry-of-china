@@ -1,0 +1,51 @@
+{
+  "slug": "jing-ye-si",
+  "title": "静夜思",
+  "pinyin": "Jìng Yè Sī",
+  "englishTitle": "Quiet Night Thoughts",
+  "author": "Li Bai",
+  "authorPinyin": "Lǐ Bái",
+  "authorCn": "李白",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["moon", "homesickness", "night"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/jing-ye-si/full.mp3",
+    "lines": [
+      "/audio/poems/jing-ye-si/line-1.mp3",
+      "/audio/poems/jing-ye-si/line-2.mp3",
+      "/audio/poems/jing-ye-si/line-3.mp3",
+      "/audio/poems/jing-ye-si/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "床前明月光",
+      "疑是地上霜",
+      "举头望明月",
+      "低头思故乡"
+    ],
+    "translation": [
+      "Before my bed, the moonlight shines",
+      "I suspect it is frost on the ground",
+      "I raise my head to gaze at the bright moon",
+      "I lower my head and think of my homeland"
+    ],
+    "pinyinLines": [
+      ["chuáng", "qián", "míng", "yuè", "guāng"],
+      ["yí", "shì", "dì", "shàng", "shuāng"],
+      ["jǔ", "tóu", "wàng", "míng", "yuè"],
+      ["dī", "tóu", "sī", "gù", "xiāng"]
+    ]
+  },
+  "annotations": {
+    "明月光": "bright moonlight — moonlight symbolizes homesickness in Chinese poetry",
+    "疑": "to suspect, to doubt",
+    "霜": "frost — evokes coldness and loneliness",
+    "举头": "raise one's head",
+    "故乡": "homeland, birthplace"
+  },
+  "appreciation": "This poem captures the universal feeling of missing home. The bright moonlight that the poet sees before his bed reminds him of frost on the ground. Looking up at the moon, he feels deep homesickness. The imagery of moonlight and the moon itself are central symbols in Chinese poetry, representing both beauty and longing.",
+  "relatedCulture": ["moon-in-chinese-poetry", "homesickness", "li-bai"]
+}

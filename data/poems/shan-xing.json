@@ -1,0 +1,51 @@
+{
+  "slug": "shan-xing",
+  "title": "山行",
+  "pinyin": "Shān Xíng",
+  "englishTitle": "A Walk in the Mountains",
+  "author": "Du Mu",
+  "authorPinyin": "Dù Mù",
+  "authorCn": "杜牧",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["autumn", "landscape", "maple"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/shan-xing/full.mp3",
+    "lines": [
+      "/audio/poems/shan-xing/line-1.mp3",
+      "/audio/poems/shan-xing/line-2.mp3",
+      "/audio/poems/shan-xing/line-3.mp3",
+      "/audio/poems/shan-xing/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "远上寒山石径斜",
+      "白云生处有人家",
+      "停车坐爱枫林晚",
+      "霜叶红于二月花"
+    ],
+    "translation": [
+      "A slanting stone path climbs far up the cold mountain",
+      "Where white clouds are born, there are households",
+      "I stop my carriage, for I love the maple woods at dusk",
+      "Frost-covered leaves, redder than February flowers"
+    ],
+    "pinyinLines": [
+      ["yuǎn", "shàng", "hán", "shān", "shí", "jìng", "xié"],
+      ["bái", "yún", "shēng", "chù", "yǒu", "rén", "jiā"],
+      ["tíng", "chē", "zuò", "ài", "fēng", "lín", "wǎn"],
+      ["shuāng", "yè", "hóng", "yú", "èr", "yuè", "huā"]
+    ]
+  },
+  "annotations": {
+    "寒山": "cold mountain — the season is late autumn",
+    "斜": "xié — slanting (older recitations read xiá for rhyme)",
+    "生处": "where the clouds are born — a way of saying 'high up'",
+    "坐": "here means 'because' — I stop *because* I love the view",
+    "于": "than — redder *than* spring flowers"
+  },
+  "appreciation": "Du Mu overturns the autumn-is-sad cliché in four lines. Everyone else sees frost and thinks of death; he sees maple leaves redder than spring flowers. The poem is a lesson in attention: he literally stops his journey because a forest at dusk is worth being late for.",
+  "relatedCulture": ["autumn-in-poetry", "du-mu", "maple-viewing"]
+}

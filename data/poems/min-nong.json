@@ -1,0 +1,51 @@
+{
+  "slug": "min-nong",
+  "title": "悯农·其二",
+  "pinyin": "Mǐn Nóng · Qí Èr",
+  "englishTitle": "Pity the Farmers (II)",
+  "author": "Li Shen",
+  "authorPinyin": "Lǐ Shēn",
+  "authorCn": "李绅",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["labor", "food", "compassion"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/min-nong/full.mp3",
+    "lines": [
+      "/audio/poems/min-nong/line-1.mp3",
+      "/audio/poems/min-nong/line-2.mp3",
+      "/audio/poems/min-nong/line-3.mp3",
+      "/audio/poems/min-nong/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "锄禾日当午",
+      "汗滴禾下土",
+      "谁知盘中餐",
+      "粒粒皆辛苦"
+    ],
+    "translation": [
+      "Hoeing the crops under the noonday sun",
+      "Sweat drips onto the soil beneath the plants",
+      "Who knows that the food on your plate",
+      "Every grain comes from bitter toil"
+    ],
+    "pinyinLines": [
+      ["chú", "hé", "rì", "dāng", "wǔ"],
+      ["hàn", "dī", "hé", "xià", "tǔ"],
+      ["shuí", "zhī", "pán", "zhōng", "cān"],
+      ["lì", "lì", "jiē", "xīn", "kǔ"]
+    ]
+  },
+  "annotations": {
+    "锄禾": "to hoe the crops — farm work in the fields",
+    "当午": "at noon, when the sun is strongest",
+    "盘中餐": "the food in the plate",
+    "粒粒": "every single grain",
+    "皆": "all, every"
+  },
+  "appreciation": "This poem is recited across China to teach children to respect food. The image of a farmer sweating under the noon sun makes every grain of rice feel earned. Its final line — 'every grain comes from bitter toil' — has become a proverb about cherishing the fruits of labor.",
+  "relatedCulture": ["rice-culture", "respect-for-labor", "children-poetry"]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "wu-yi-xiang",
+  "title": "乌衣巷",
+  "pinyin": "Wū Yī Xiàng",
+  "englishTitle": "Black Robe Lane",
+  "author": "Liu Yuxi",
+  "authorPinyin": "Liú Yǔ Xī",
+  "authorCn": "刘禹锡",
+  "dynasty": "Tang",
+  "difficulty": 4,
+  "themes": ["history", "nostalgia", "change"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/wu-yi-xiang/full.mp3",
+    "lines": [
+      "/audio/poems/wu-yi-xiang/line-1.mp3",
+      "/audio/poems/wu-yi-xiang/line-2.mp3",
+      "/audio/poems/wu-yi-xiang/line-3.mp3",
+      "/audio/poems/wu-yi-xiang/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "朱雀桥边野草花",
+      "乌衣巷口夕阳斜",
+      "旧时王谢堂前燕",
+      "飞入寻常百姓家"
+    ],
+    "translation": [
+      "wild grass and flowers grow beside the rosefinch bridge",
+      "the setting sun slants across the entrance of black robe lane",
+      "the swallows that once nested before the halls of wang and xie",
+      "now fly into the homes of ordinary people"
+    ],
+    "pinyinLines": [
+      ["zhū", "què", "qiáo", "biān", "yě", "cǎo", "huā"],
+      ["wū", "yī", "xiàng", "kǒu", "xī", "yáng", "xiá"],
+      ["jiù", "shí", "wáng", "xiè", "táng", "qián", "yàn"],
+      ["fēi", "rù", "xún", "cháng", "bǎi", "xìng", "jiā"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "The grand bridge is overgrown and the noble lane lies in slanting sunlight, but the swallows keep returning to the same eaves. Once they nested in the mansions of the great Wang and Xie clans; now they fly into ordinary homes. The poem matters because it lets a bird carry the whole lesson of history, showing how dynasties fall while daily life quietly goes on.",
+  "relatedCulture": ["jinling", "history-in-poetry", "liu-yuxi", "swallows-in-poetry"]
+}

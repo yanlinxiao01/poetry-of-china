@@ -1,0 +1,51 @@
+{
+  "slug": "ti-xi-lin-bi",
+  "title": "题西林壁",
+  "pinyin": "Tí Xī Lín Bì",
+  "englishTitle": "Written on the Wall of West Forest Temple",
+  "author": "Su Shi",
+  "authorPinyin": "Sū Shì",
+  "authorCn": "苏轼",
+  "dynasty": "Song",
+  "difficulty": 3,
+  "themes": ["philosophy", "mountain", "perspective"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/ti-xi-lin-bi/full.mp3",
+    "lines": [
+      "/audio/poems/ti-xi-lin-bi/line-1.mp3",
+      "/audio/poems/ti-xi-lin-bi/line-2.mp3",
+      "/audio/poems/ti-xi-lin-bi/line-3.mp3",
+      "/audio/poems/ti-xi-lin-bi/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "横看成岭侧成峰",
+      "远近高低各不同",
+      "不识庐山真面目",
+      "只缘身在此山中"
+    ],
+    "translation": [
+      "Seen head-on it's a ridge, from the side a peak",
+      "Far or near, high or low, it never looks the same",
+      "You cannot know the true face of Mount Lu",
+      "Precisely because you are standing inside it"
+    ],
+    "pinyinLines": [
+      ["héng", "kàn", "chéng", "lǐng", "cè", "chéng", "fēng"],
+      ["yuǎn", "jìn", "gāo", "dī", "gè", "bù", "tóng"],
+      ["bù", "shí", "lú", "shān", "zhēn", "miàn", "mù"],
+      ["zhǐ", "yuán", "shēn", "zài", "cǐ", "shān", "zhōng"]
+    ]
+  },
+  "annotations": {
+    "题": "to inscribe — poets wrote directly on temple walls, like public notes",
+    "横看": "viewed head-on, from the front",
+    "识": "to recognize, to know",
+    "缘": "yuán — because of, due to",
+    "真面目": "true face — the real nature of something"
+  },
+  "appreciation": "Su Shi turns a sightseeing trip into one of philosophy's sharpest one-liners: you can't see the mountain because you're inside the mountain. It has become the standard Chinese way of saying that being too close to a problem blinds you to it — distance is a form of knowledge.",
+  "relatedCulture": ["mount-lu", "su-shi-philosophy", "song-philosophical-poetry"]
+}

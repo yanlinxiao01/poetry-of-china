@@ -1,0 +1,51 @@
+{
+  "slug": "chun-xiao",
+  "title": "春晓",
+  "pinyin": "Chūn Xiǎo",
+  "englishTitle": "Spring Morning",
+  "author": "Meng Haoran",
+  "authorPinyin": "Mèng Hàorán",
+  "authorCn": "孟浩然",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["spring", "nature", "morning"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/chun-xiao/full.mp3",
+    "lines": [
+      "/audio/poems/chun-xiao/line-1.mp3",
+      "/audio/poems/chun-xiao/line-2.mp3",
+      "/audio/poems/chun-xiao/line-3.mp3",
+      "/audio/poems/chun-xiao/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "春眠不觉晓",
+      "处处闻啼鸟",
+      "夜来风雨声",
+      "花落知多少"
+    ],
+    "translation": [
+      "In spring, I sleep so deeply I don't notice the dawn",
+      "Everywhere I hear birds singing",
+      "Last night, I heard the sound of wind and rain",
+      "How many flowers have fallen?"
+    ],
+    "pinyinLines": [
+      ["chūn", "mián", "bù", "jué", "xiǎo"],
+      ["chù", "chù", "wén", "tí", "niǎo"],
+      ["yè", "lái", "fēng", "yǔ", "shēng"],
+      ["huā", "luò", "zhī", "duō", "shǎo"]
+    ]
+  },
+  "annotations": {
+    "春眠": "spring sleep — the drowsiness of spring",
+    "不觉晓": "don't notice the morning — sleeping late",
+    "闻啼鸟": "hear birds singing",
+    "风雨声": "sound of wind and rain",
+    "花落": "flowers falling"
+  },
+  "appreciation": "This poem beautifully captures the feeling of a spring morning. The poet sleeps contentedly through the night, unaware of dawn, until the birdsong outside alerts him to the morning. A hint of concern for the flowers that may have been damaged by last night's storm adds a touch of melancholy to the otherwise peaceful scene.",
+  "relatedCulture": ["spring-in-poetry", "birds-in-poetry", "meng-haoran"]
+}

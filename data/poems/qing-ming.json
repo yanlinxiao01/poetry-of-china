@@ -1,0 +1,51 @@
+{
+  "slug": "qing-ming",
+  "title": "清明",
+  "pinyin": "Qīng Míng",
+  "englishTitle": "The Qingming Festival",
+  "author": "Du Mu",
+  "authorPinyin": "Dù Mù",
+  "authorCn": "杜牧",
+  "dynasty": "Tang",
+  "difficulty": 3,
+  "themes": ["festival", "rain", "journey", "memory"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/qing-ming/full.mp3",
+    "lines": [
+      "/audio/poems/qing-ming/line-1.mp3",
+      "/audio/poems/qing-ming/line-2.mp3",
+      "/audio/poems/qing-ming/line-3.mp3",
+      "/audio/poems/qing-ming/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "清明时节雨纷纷",
+      "路上行人欲断魂",
+      "借问酒家何处有",
+      "牧童遥指杏花村"
+    ],
+    "translation": [
+      "During the Qingming festival, the rain falls in endless threads",
+      "Travelers on the road seem ready to break with sorrow",
+      "I ask where a tavern might be found",
+      "A shepherd boy points to the distant Apricot Blossom Village"
+    ],
+    "pinyinLines": [
+      ["qīng", "míng", "shí", "jié", "yǔ", "fēn", "fēn"],
+      ["lù", "shàng", "xíng", "rén", "yù", "duàn", "hún"],
+      ["jiè", "wèn", "jiǔ", "jiā", "hé", "chù", "yǒu"],
+      ["mù", "tóng", "yáo", "zhǐ", "xìng", "huā", "cūn"]
+    ]
+  },
+  "annotations": {
+    "清明": "Qingming Festival — the day Chinese families sweep ancestral tombs",
+    "纷纷": "falling thick and fast — describing the drizzling rain",
+    "断魂": "heartbroken, soul-broken — deep melancholy",
+    "借问": "may I ask — a polite way to inquire",
+    "遥指": "point into the distance"
+  },
+  "appreciation": "The most famous poem about the Qingming Festival, when families honor their ancestors. The drizzling rain mirrors the mourners' mood. But the poem ends on a gentle turn: a shepherd boy points toward a village of apricot blossoms and wine, offering warmth amid sorrow.",
+  "relatedCulture": ["qingming-festival", "ancestor-veneration", "du-mu"]
+}

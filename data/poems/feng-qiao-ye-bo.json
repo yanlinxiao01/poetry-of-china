@@ -1,0 +1,51 @@
+{
+  "slug": "feng-qiao-ye-bo",
+  "title": "枫桥夜泊",
+  "pinyin": "Fēng Qiáo Yè Bó",
+  "englishTitle": "Mooring by Maple Bridge at Night",
+  "author": "Zhang Ji",
+  "authorPinyin": "Zhāng Jì",
+  "authorCn": "张继",
+  "dynasty": "Tang",
+  "difficulty": 3,
+  "themes": ["night", "loneliness", "journey", "bell"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/feng-qiao-ye-bo/full.mp3",
+    "lines": [
+      "/audio/poems/feng-qiao-ye-bo/line-1.mp3",
+      "/audio/poems/feng-qiao-ye-bo/line-2.mp3",
+      "/audio/poems/feng-qiao-ye-bo/line-3.mp3",
+      "/audio/poems/feng-qiao-ye-bo/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "月落乌啼霜满天",
+      "江枫渔火对愁眠",
+      "姑苏城外寒山寺",
+      "夜半钟声到客船"
+    ],
+    "translation": [
+      "The moon sets, crows caw, frost fills the sky",
+      "River maples and fishing lights face my sleepless sorrow",
+      "Outside the walls of Gusu stands Hanshan Temple",
+      "At midnight, the sound of its bell reaches my traveler's boat"
+    ],
+    "pinyinLines": [
+      ["yuè", "luò", "wū", "tí", "shuāng", "mǎn", "tiān"],
+      ["jiāng", "fēng", "yú", "huǒ", "duì", "chóu", "mián"],
+      ["gū", "sū", "chéng", "wài", "hán", "shān", "sì"],
+      ["yè", "bàn", "zhōng", "shēng", "dào", "kè", "chuán"]
+    ]
+  },
+  "annotations": {
+    "乌啼": "crows cawing — a sound associated with desolation",
+    "渔火": "lights from fishing boats on the river",
+    "姑苏": "Gusu — the ancient name of Suzhou",
+    "寒山寺": "Hanshan Temple — a real temple you can still visit today",
+    "客船": "traveler's boat — the poet is far from home"
+  },
+  "appreciation": "A lone traveler moors his boat on a cold autumn night. Moon, crows, frost, river maples, fishing lights — every image deepens his insomnia. Then the midnight bell of Hanshan Temple drifts across the water, one of the most famous sounds in Chinese poetry. The temple in Suzhou still rings its bell for visitors today.",
+  "relatedCulture": ["suzhou", "temple-bells", "night-in-poetry"]
+}

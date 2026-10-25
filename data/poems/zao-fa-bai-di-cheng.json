@@ -1,0 +1,51 @@
+{
+  "slug": "zao-fa-bai-di-cheng",
+  "title": "早发白帝城",
+  "pinyin": "Zǎo Fā Bái Dì Chéng",
+  "englishTitle": "Leaving Baidi City at Dawn",
+  "author": "Li Bai",
+  "authorPinyin": "Lǐ Bái",
+  "authorCn": "李白",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["travel", "joy", "river"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/zao-fa-bai-di-cheng/full.mp3",
+    "lines": [
+      "/audio/poems/zao-fa-bai-di-cheng/line-1.mp3",
+      "/audio/poems/zao-fa-bai-di-cheng/line-2.mp3",
+      "/audio/poems/zao-fa-bai-di-cheng/line-3.mp3",
+      "/audio/poems/zao-fa-bai-di-cheng/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "朝辞白帝彩云间",
+      "千里江陵一日还",
+      "两岸猿声啼不住",
+      "轻舟已过万重山"
+    ],
+    "translation": [
+      "At dawn I leave Baidi City, high among rosy clouds",
+      "A thousand li to Jiangling, covered in a single day",
+      "Monkeys on both banks cry without pause",
+      "My light boat has already passed ten thousand ranges"
+    ],
+    "pinyinLines": [
+      ["zhāo", "cí", "bái", "dì", "cǎi", "yún", "jiān"],
+      ["qiān", "lǐ", "jiāng", "líng", "yí", "rì", "huán"],
+      ["liǎng", "àn", "yuán", "shēng", "tí", "bú", "zhù"],
+      ["qīng", "zhōu", "yǐ", "guò", "wàn", "chóng", "shān"]
+    ]
+  },
+  "annotations": {
+    "朝": "zhāo — morning (not cháo)",
+    "白帝城": "Baidi City, a fortress on a mountaintop overlooking the Yangtze gorges",
+    "还": "huán — to return (not hái)",
+    "猿": "gibbon — their cries were famous along the Three Gorges",
+    "重": "chóng — layer upon layer (not zhòng)"
+  },
+  "appreciation": "Li Bai wrote this in 759, sailing down the Yangtze right after receiving a pardon from exile — the speed of the boat is the speed of his relief. A thousand li in one day is impossible, but joy doesn't do arithmetic. The wailing gibbons can't even keep up; before their cry fades, the mountains are already behind him.",
+  "relatedCulture": ["li-bai-pardon", "three-gorges", "gibbon-cries"]
+}

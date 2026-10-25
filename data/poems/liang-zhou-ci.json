@@ -1,0 +1,51 @@
+{
+  "slug": "liang-zhou-ci",
+  "title": "凉州词",
+  "pinyin": "Liáng Zhōu Cí",
+  "englishTitle": "Song of Liangzhou",
+  "author": "Wang Zhihuan",
+  "authorPinyin": "Wáng Zhīhuàn",
+  "authorCn": "王之涣",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["frontier", "desolation", "border"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/liang-zhou-ci/full.mp3",
+    "lines": [
+      "/audio/poems/liang-zhou-ci/line-1.mp3",
+      "/audio/poems/liang-zhou-ci/line-2.mp3",
+      "/audio/poems/liang-zhou-ci/line-3.mp3",
+      "/audio/poems/liang-zhou-ci/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "黄河远上白云间",
+      "一片孤城万仞山",
+      "羌笛何须怨杨柳",
+      "春风不度玉门关"
+    ],
+    "translation": [
+      "The Yellow River rises far into the white clouds",
+      "A single lonely town among ten-thousand-foot mountains",
+      "Why should the Qiang flute grieve over willows",
+      "When spring wind never crosses the Jade Gate Pass"
+    ],
+    "pinyinLines": [
+      ["huáng", "hé", "yuǎn", "shàng", "bái", "yún", "jiān"],
+      ["yí", "piàn", "gū", "chéng", "wàn", "rèn", "shān"],
+      ["qiāng", "dí", "hé", "xū", "yuàn", "yáng", "liǔ"],
+      ["chūn", "fēng", "bù", "dù", "yù", "mén", "guān"]
+    ]
+  },
+  "annotations": {
+    "仞": "an ancient unit of length, about 2.3 meters — 万仞 is pure exaggeration for 'towering'",
+    "羌笛": "a flute of the Qiang people — its plaintive sound stood for frontier sorrow",
+    "怨杨柳": "to grieve over willows — willows symbolize parting, since 柳 liǔ puns on 留 liú 'to stay'",
+    "玉门关": "Jade Gate Pass — the last outpost of the empire in the northwest desert",
+    "度": "to cross over"
+  },
+  "appreciation": "A frontier poem of immense scale: river, clouds, mountains, and one tiny walled town lost among them. The closing line is a masterstroke of restraint — 'the spring wind never crosses the Jade Gate' means warmth, news, and home never reach these soldiers. No one complains outright; the flute does it for them.",
+  "relatedCulture": ["frontier-poetry", "jade-gate-pass", "willow-parting-symbol"]
+}

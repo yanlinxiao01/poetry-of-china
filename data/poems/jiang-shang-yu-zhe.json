@@ -1,0 +1,45 @@
+{
+  "slug": "jiang-shang-yu-zhe",
+  "title": "江上渔者",
+  "pinyin": "Jiāng Shàng Yú Zhě",
+  "englishTitle": "The Fisherman on the River",
+  "author": "Fan Zhongyan",
+  "authorPinyin": "Fàn Zhòngyān",
+  "authorCn": "范仲淹",
+  "dynasty": "Song",
+  "difficulty": 2,
+  "themes": ["fisherman", "labour", "compassion"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/jiang-shang-yu-zhe/full.mp3",
+    "lines": [
+      "/audio/poems/jiang-shang-yu-zhe/line-1.mp3",
+      "/audio/poems/jiang-shang-yu-zhe/line-2.mp3",
+      "/audio/poems/jiang-shang-yu-zhe/line-3.mp3",
+      "/audio/poems/jiang-shang-yu-zhe/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "江上往来人",
+      "但爱鲈鱼美",
+      "君看一叶舟",
+      "出没风波里"
+    ],
+    "translation": [
+      "people come and go on the river",
+      "they only love how fine the perch tastes",
+      "but look at that boat, a single leaf",
+      "rising and sinking in the wind and waves"
+    ],
+    "pinyinLines": [
+      ["jiāng", "shàng", "wǎng", "lái", "rén"],
+      ["dàn", "ài", "lú", "yú", "měi"],
+      ["jūn", "kàn", "yī", "yè", "zhōu"],
+      ["chū", "mò", "fēng", "bō", "lǐ"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "The poem sets diners who praise a delicate fish against the tiny boat that braves the waves to catch it. In four short lines Fan Zhongyan turns a pleasant riverside scene into a question about who pays for pleasure. It is a compact example of the scholar-official's concern for ordinary labour.",
+  "relatedCulture": ["fisherman-in-poetry", "compassion-in-literature", "song-dynasty-society"]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "qing-ping-yue-cun-ju",
+  "title": "清平乐·村居",
+  "pinyin": "Qīng Píng Yuè · Cūn Jū",
+  "englishTitle": "Pure Serene Music: Village Life",
+  "author": "Xin Qiji",
+  "authorPinyin": "Xīn Qìjí",
+  "authorCn": "辛弃疾",
+  "dynasty": "Song",
+  "difficulty": 4,
+  "themes": ["village", "family", "rustic-life"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/qing-ping-yue-cun-ju/full.mp3",
+    "lines": [
+      "/audio/poems/qing-ping-yue-cun-ju/line-1.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-2.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-3.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-4.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-5.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-6.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-7.mp3",
+      "/audio/poems/qing-ping-yue-cun-ju/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "茅檐低小",
+      "溪上青青草",
+      "醉里吴音相媚好",
+      "白发谁家翁媪",
+      "大儿锄豆溪东",
+      "中儿正织鸡笼",
+      "最喜小儿亡赖",
+      "溪头卧剥莲蓬"
+    ],
+    "translation": [
+      "a low thatched eave",
+      "green grass beside the stream",
+      "drunk, the old couple tease each other in soft wu speech",
+      "whose white-haired man and wife are these",
+      "the eldest son hoes beans east of the stream",
+      "the middle son is weaving a chicken coop",
+      "i love best the youngest, the little rascal",
+      "lying at the stream's head, peeling lotus pods"
+    ],
+    "pinyinLines": [
+      ["máo", "yán", "dī", "xiǎo"],
+      ["xī", "shàng", "qīng", "qīng", "cǎo"],
+      ["zuì", "lǐ", "wú", "yīn", "xiāng", "mèi", "hǎo"],
+      ["bái", "fà", "shuí", "jiā", "wēng", "ǎo"],
+      ["dà", "ér", "chú", "dòu", "xī", "dōng"],
+      ["zhōng", "ér", "zhèng", "zhī", "jī", "lóng"],
+      ["zuì", "xǐ", "xiǎo", "ér", "wú", "lài"],
+      ["xī", "tóu", "wò", "bāo", "lián", "péng"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Xin Qiji, usually the poet of war and frustration, here writes a warm genre scene: a thatched cottage, a stream, and a family busy at its small tasks. The drunken old couple joking in dialect and the youngest child peeling lotus pods give the poem its affection. It is a rare picture of peace from a poet who rarely had it.",
+  "relatedCulture": ["ci-poetry", "pastoral-poetry", "xin-qiji"]
+}

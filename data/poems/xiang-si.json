@@ -1,0 +1,50 @@
+{
+  "slug": "xiang-si",
+  "title": "相思",
+  "pinyin": "Xiāng Sī",
+  "englishTitle": "Love Seeds",
+  "author": "Wang Wei",
+  "authorPinyin": "Wáng Wéi",
+  "authorCn": "王维",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["longing", "love", "friendship"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/xiang-si/full.mp3",
+    "lines": [
+      "/audio/poems/xiang-si/line-1.mp3",
+      "/audio/poems/xiang-si/line-2.mp3",
+      "/audio/poems/xiang-si/line-3.mp3",
+      "/audio/poems/xiang-si/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "红豆生南国",
+      "春来发几枝",
+      "愿君多采撷",
+      "此物最相思"
+    ],
+    "translation": [
+      "Red beans grow in the southern land",
+      "In spring they put out a few new sprigs",
+      "Gather them as many as you can, my friend",
+      "For they are the very symbol of longing"
+    ],
+    "pinyinLines": [
+      ["hóng", "dòu", "shēng", "nán", "guó"],
+      ["chūn", "lái", "fā", "jǐ", "zhī"],
+      ["yuàn", "jūn", "duō", "cǎi", "xié"],
+      ["cǐ", "wù", "zuì", "xiāng", "sī"]
+    ]
+  },
+  "annotations": {
+    "红豆": "red beans — called 'love seeds' (相思子), a classical token of longing",
+    "南国": "the southern land, south of the Yangtze",
+    "采撷": "to pick, to gather",
+    "君": "you — a respectful address to a friend"
+  },
+  "appreciation": "Wang Wei takes the tiniest thing — a red bean — and loads it with the weight of longing. The poem was written to a friend, not a lover, which is why it has become the all-purpose Chinese poem for missing anyone dear. 'Gather more of them,' he says, 'because each one is longing itself made visible.'",
+  "relatedCulture": ["red-beans-symbolism", "wang-wei"]
+}

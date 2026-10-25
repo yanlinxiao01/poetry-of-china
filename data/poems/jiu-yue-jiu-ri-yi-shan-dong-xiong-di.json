@@ -1,0 +1,45 @@
+{
+  "slug": "jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+  "title": "九月九日忆山东兄弟",
+  "pinyin": "Jiǔ Yuè Jiǔ Rì Yì Shān Dōng Xiōng Dì",
+  "englishTitle": "Remembering My Brothers in Shandong on the Double Ninth",
+  "author": "Wang Wei",
+  "authorPinyin": "Wáng Wéi",
+  "authorCn": "王维",
+  "dynasty": "Tang",
+  "difficulty": 3,
+  "themes": ["festival", "family", "homesickness"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/jiu-yue-jiu-ri-yi-shan-dong-xiong-di/full.mp3",
+    "lines": [
+      "/audio/poems/jiu-yue-jiu-ri-yi-shan-dong-xiong-di/line-1.mp3",
+      "/audio/poems/jiu-yue-jiu-ri-yi-shan-dong-xiong-di/line-2.mp3",
+      "/audio/poems/jiu-yue-jiu-ri-yi-shan-dong-xiong-di/line-3.mp3",
+      "/audio/poems/jiu-yue-jiu-ri-yi-shan-dong-xiong-di/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "独在异乡为异客",
+      "每逢佳节倍思亲",
+      "遥知兄弟登高处",
+      "遍插茱萸少一人"
+    ],
+    "translation": [
+      "alone in a strange land, a stranger among strangers",
+      "on every festival day i miss my family twice as much",
+      "from far away i know where my brothers climb the heights",
+      "and that one of us is missing as they all pin on the dogwood"
+    ],
+    "pinyinLines": [
+      ["dú", "zài", "yì", "xiāng", "wéi", "yì", "kè"],
+      ["měi", "féng", "jiā", "jié", "bèi", "sī", "qīn"],
+      ["yáo", "zhī", "xiōng", "dì", "dēng", "gāo", "chù"],
+      ["biàn", "chā", "zhū", "yú", "shǎo", "yì", "rén"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Wang Wei was only seventeen and far from home when he wrote this for the Double Ninth Festival. Instead of describing his own sadness, he imagines his brothers climbing the hill and noticing the one empty place among them. The poem matters because that reversed viewpoint makes the loneliness sharper and gave Chinese poetry its most famous line about missing family on a holiday.",
+  "relatedCulture": ["double-ninth-festival", "wang-wei", "family-in-poetry", "homesickness"]
+}

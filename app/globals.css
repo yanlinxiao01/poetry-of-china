@@ -1,0 +1,229 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* ---- 主题色（品牌渐变红）：所有强调色都从这里取，改主题只需改这几行 ---- */
+  --accent-from: #f97316; /* 渐变起点：橙 */
+  --accent-to: #f43f5e; /* 渐变终点：玫红 */
+  --accent-gradient: linear-gradient(90deg, var(--accent-from) 0%, var(--accent-to) 100%);
+  --accent: #f7593a; /* 渐变中值：用于填充块、装饰描边 */
+  --accent-ink: #d42f22; /* 同色相加深：仅用于浅底上的小字，保证对比度 ≥ 4.7:1 */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-from: var(--accent-from);
+  --color-accent-to: var(--accent-to);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* 主题渐变填充：用于按钮、徽章、印章等实心块 */
+.accent-gradient {
+  background-image: var(--accent-gradient);
+}
+
+/* 全站唯一内容容器：导航、Hero、诗词、排行榜、页脚共用，保证左右竖线对齐 */
+.shell {
+  width: 100%;
+  max-width: 80rem; /* = max-w-7xl */
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 768px) {
+  .shell {
+    padding-inline: 1.5rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+@keyframes poetryShimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 300% 50%;
+  }
+}
+
+@keyframes pulseScale {
+  0%,
+  85%,
+  100% {
+    transform: scale(1);
+  }
+  92%,
+  94% {
+    transform: scale(1.05);
+  }
+}
+
+/* Hero 主 CTA 的轻微起伏：幅度只够呼吸，不干扰点击 */
+@keyframes floatCta {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.float-cta {
+  animation: floatCta 3.2s ease-in-out infinite;
+}
+
+/* hover 时冻结动画，避免与阴影/亮度反馈互相覆盖 */
+.float-cta:hover {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .float-cta {
+    animation: none;
+  }
+}
+
+@keyframes floatY {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes floatCircle {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@keyframes floatY {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes floatCircle {
+  0%,
+  100% {
+    transform: translateY(8px) translateX(0);
+  }
+  50% {
+    transform: translateY(-10px) translateX(2px);
+  }
+}
+
+/* ---- Poem fill-in game ---- */
+
+@keyframes cellShake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-6px);
+  }
+  40% {
+    transform: translateX(6px);
+  }
+  60% {
+    transform: translateX(-4px);
+  }
+  80% {
+    transform: translateX(4px);
+  }
+}
+
+@keyframes tilePop {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.12);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes sealBloom {
+  0% {
+    background-color: rgba(247, 89, 58, 0);
+    box-shadow: 0 0 0 0 rgba(247, 89, 58, 0);
+  }
+  35% {
+    background-color: rgba(247, 89, 58, 0.16);
+    box-shadow: 0 0 42px 6px rgba(247, 89, 58, 0.38);
+  }
+  100% {
+    background-color: rgba(247, 89, 58, 0.07);
+    box-shadow: 0 0 18px 2px rgba(247, 89, 58, 0.14);
+  }
+}
+
+@keyframes overlayIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes stampIn {
+  0% {
+    opacity: 0;
+    transform: scale(2.2) rotate(-14deg);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(0.92) rotate(-7deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(-8deg);
+  }
+}
+
+/* 当前行左侧朱红竖条：实色滑块自上而下循环滚动 */
+@keyframes lineScroll {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(400%);
+  }
+}

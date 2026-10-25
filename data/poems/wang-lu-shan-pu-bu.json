@@ -1,0 +1,54 @@
+{
+  "slug": "wang-lu-shan-pu-bu",
+  "title": "望庐山瀑布",
+  "pinyin": "Wàng Lú Shān Pù Bù",
+  "englishTitle": "Viewing the Waterfall at Mount Lu",
+  "author": "Li Bai",
+  "authorPinyin": "Lǐ Bái",
+  "authorCn": "李白",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["mountain", "river", "waterfall", "nature"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/wang-lu-shan-pu-bu/full.mp3",
+    "lines": [
+      "/audio/poems/wang-lu-shan-pu-bu/line-1.mp3",
+      "/audio/poems/wang-lu-shan-pu-bu/line-2.mp3",
+      "/audio/poems/wang-lu-shan-pu-bu/line-3.mp3",
+      "/audio/poems/wang-lu-shan-pu-bu/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "日照香炉生紫烟",
+      "遥看瀑布挂前川",
+      "飞流直下三千尺",
+      "疑是银河落九天"
+    ],
+    "translation": [
+      "The sun illuminates the incense burner peak, producing purple mist",
+      "From afar, I see the waterfall hanging before the stream",
+      "Its swift current drops three thousand feet straight down",
+      "I suspect the Milky Way has fallen from the highest heavens"
+    ],
+    "pinyinLines": [
+      ["rì", "zhào", "xiāng", "lú", "shēng", "zǐ", "yān"],
+      ["yáo", "kàn", "pù", "bù", "guà", "qián", "chuān"],
+      ["fēi", "liú", "zhí", "xià", "sān", "qiān", "chǐ"],
+      ["yí", "shì", "yín", "hé", "luò", "jiǔ", "tiān"]
+    ]
+  },
+  "annotations": {
+    "香炉": "incense burner — a peak at Mount Lu shaped like an incense burner",
+    "紫烟": "purple mist — rosy glow at sunrise",
+    "遥看": "view from afar",
+    "挂前川": "hanging before the stream",
+    "飞流": "swift flowing water",
+    "三千尺": "three thousand chi — about 1000 meters, an exaggeration for effect",
+    "银河": "Milky Way",
+    "落九天": "falling from the nine heavens — the highest realm"
+  },
+  "appreciation": "Li Bai uses bold exaggeration to describe the waterfall at Mount Lu. The water appears to be hanging before the mountain stream, then rushes down three thousand feet as if the Milky Way itself had fallen from heaven. This poem exemplifies Li Bai's characteristic romantic, imaginative style.",
+  "relatedCulture": ["mount-lu", "waterfalls-in-poetry", "li-bai", "mountains-in-poetry"]
+}

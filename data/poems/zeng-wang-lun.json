@@ -1,0 +1,45 @@
+{
+  "slug": "zeng-wang-lun",
+  "title": "赠汪伦",
+  "pinyin": "Zèng Wāng Lún",
+  "englishTitle": "To Wang Lun",
+  "author": "Li Bai",
+  "authorPinyin": "Lǐ Bái",
+  "authorCn": "李白",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["friendship", "farewell", "river"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/zeng-wang-lun/full.mp3",
+    "lines": [
+      "/audio/poems/zeng-wang-lun/line-1.mp3",
+      "/audio/poems/zeng-wang-lun/line-2.mp3",
+      "/audio/poems/zeng-wang-lun/line-3.mp3",
+      "/audio/poems/zeng-wang-lun/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "李白乘舟将欲行",
+      "忽闻岸上踏歌声",
+      "桃花潭水深千尺",
+      "不及汪伦送我情"
+    ],
+    "translation": [
+      "li bai is about to set off in his boat",
+      "when suddenly he hears stamping and singing on the shore",
+      "the peach blossom pool runs a thousand feet deep",
+      "yet it still falls short of the love wang lun gives me"
+    ],
+    "pinyinLines": [
+      ["lǐ", "bái", "chéng", "zhōu", "jiāng", "yù", "xíng"],
+      ["hū", "wén", "àn", "shàng", "tà", "gē", "shēng"],
+      ["táo", "huā", "tán", "shuǐ", "shēn", "qiān", "chǐ"],
+      ["bù", "jí", "wāng", "lún", "sòng", "wǒ", "qíng"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Li Bai is already in the boat when Wang Lun and his friends begin stamping their feet and singing a farewell song on the shore. The poet answers with a playful boast: even a pool a thousand feet deep cannot measure this friendship. The poem matters because its warmth is so direct and unguarded, turning a simple goodbye into one of the most quoted expressions of friendship in Chinese.",
+  "relatedCulture": ["li-bai", "farewell-poetry", "friendship-in-poetry"]
+}

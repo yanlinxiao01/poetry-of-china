@@ -1,0 +1,53 @@
+{
+  "slug": "deng-guan-que-lou",
+  "title": "登鹳雀楼",
+  "pinyin": "Dēng Guàn Què Lóu",
+  "englishTitle": "On the Stork Tower",
+  "author": "Wang Zhihuan",
+  "authorPinyin": "Wáng Zhīhuàn",
+  "authorCn": "王之涣",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["mountain", "river", "vision", "ambition"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/deng-guan-que-lou/full.mp3",
+    "lines": [
+      "/audio/poems/deng-guan-que-lou/line-1.mp3",
+      "/audio/poems/deng-guan-que-lou/line-2.mp3",
+      "/audio/poems/deng-guan-que-lou/line-3.mp3",
+      "/audio/poems/deng-guan-que-lou/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "白日依山尽",
+      "黄河入海流",
+      "欲穷千里目",
+      "更上一层楼"
+    ],
+    "translation": [
+      "The white sun sets behind the mountains",
+      "The Yellow River flows into the sea",
+      "If you want to see a thousand miles further",
+      "Climb one more floor"
+    ],
+    "pinyinLines": [
+      ["bái", "rì", "yī", "shān", "jìn"],
+      ["huáng", "hé", "rù", "hǎi", "liú"],
+      ["yù", "qióng", "qiān", "lǐ", "mù"],
+      ["gèng", "shàng", "yī", "céng", "lóu"]
+    ]
+  },
+  "annotations": {
+    "白日": "white sun — the setting sun",
+    "依山尽": "sets behind the mountains",
+    "黄河": "Yellow River — China's mother river",
+    "入海流": "flows into the sea",
+    "欲穷": "if you want to see fully",
+    "千里目": "a thousand miles of vision",
+    "更上": "climb higher"
+  },
+  "appreciation": "This poem describes the view from the Stork Tower and then turns into a philosophical message. The poet sees the sun setting and the river flowing, then realizes that to see further and achieve more, one must keep climbing higher. It has become a metaphor for continuous self-improvement and the pursuit of greater goals.",
+  "relatedCulture": ["yellow-river", "mountains-in-poetry", "wang-zhihuan"]
+}

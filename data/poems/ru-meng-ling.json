@@ -1,0 +1,60 @@
+{
+  "slug": "ru-meng-ling",
+  "title": "如梦令",
+  "pinyin": "Rú Mèng Líng",
+  "englishTitle": "Like a Dream",
+  "author": "Li Qingzhao",
+  "authorPinyin": "Lǐ Qīngzhào",
+  "authorCn": "李清照",
+  "dynasty": "Song",
+  "difficulty": 4,
+  "themes": ["memory", "flowers", "pond", "youth"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/ru-meng-ling/full.mp3",
+    "lines": [
+      "/audio/poems/ru-meng-ling/line-1.mp3",
+      "/audio/poems/ru-meng-ling/line-2.mp3",
+      "/audio/poems/ru-meng-ling/line-3.mp3",
+      "/audio/poems/ru-meng-ling/line-4.mp3",
+      "/audio/poems/ru-meng-ling/line-5.mp3",
+      "/audio/poems/ru-meng-ling/line-6.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "常记溪亭日暮",
+      "沉醉不知归路",
+      "兴尽晚回舟",
+      "误入藕花深处",
+      "争渡，争渡",
+      "惊起一滩鸥鹭"
+    ],
+    "translation": [
+      "I often recall the sunset at the streamside pavilion",
+      "We were so drunk we forgot the way home",
+      "When our enjoyment finally ended, we returned late in the boat",
+      "We accidentally entered the depths of the lotus flowers",
+      "Rushing to cross, rushing to cross",
+      "We startled a whole sandbank of gulls and egrets"
+    ],
+    "pinyinLines": [
+      ["cháng", "jì", "xī", "tíng", "rì", "mù"],
+      ["chén", "zuì", "bù", "zhī", "guī", "lù"],
+      ["xìng", "jìn", "wǎn", "huí", "zhōu"],
+      ["wù", "rù", "ǒu", "huā", "shēn", "chù"],
+      ["zhēng", "dù", "zhēng", "dù"],
+      ["jīng", "qǐ", "yī", "tān", "ōu", "lù"]
+    ]
+  },
+  "annotations": {
+    "常记": "I often recall — memory of a past event",
+    "溪亭": "streamside pavilion — a place of gathering",
+    "沉醉": "deeply drunk",
+    "藕花": "lotus flowers",
+    "争渡": "rushing to cross — rowing urgently",
+    "鸥鹭": "gulls and egrets — water birds"
+  },
+  "appreciation": "This ci poem captures a carefree moment of youth. Li Qingzhao recalls a joyful outing where she and her companions got lost in the excitement of drinking and nature. The ending is vivid and alive — their urgent rowing startles a flock of birds into flight. It reveals a rare glimpse of the playful side of this celebrated poetess.",
+  "relatedCulture": ["li-qingzhao", "women-poets", "lotus-in-poetry", "youth-and-memory"]
+}

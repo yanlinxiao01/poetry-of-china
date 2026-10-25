@@ -1,0 +1,45 @@
+{
+  "slug": "lu-zhai",
+  "title": "鹿柴",
+  "pinyin": "Lù Zhài",
+  "englishTitle": "Deer Enclosure",
+  "author": "Wang Wei",
+  "authorPinyin": "Wáng Wéi",
+  "authorCn": "王维",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["mountain", "solitude", "nature"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/lu-zhai/full.mp3",
+    "lines": [
+      "/audio/poems/lu-zhai/line-1.mp3",
+      "/audio/poems/lu-zhai/line-2.mp3",
+      "/audio/poems/lu-zhai/line-3.mp3",
+      "/audio/poems/lu-zhai/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "空山不见人",
+      "但闻人语响",
+      "返景入深林",
+      "复照青苔上"
+    ],
+    "translation": [
+      "empty mountains, and no one in sight",
+      "only the echo of human voices",
+      "returning light slips into the deep forest",
+      "and shines again on the green moss"
+    ],
+    "pinyinLines": [
+      ["kōng", "shān", "bú", "jiàn", "rén"],
+      ["dàn", "wén", "rén", "yǔ", "xiǎng"],
+      ["fǎn", "yǐng", "rù", "shēn", "lín"],
+      ["fù", "zhào", "qīng", "tái", "shàng"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Wang Wei paints a mountain so empty that the only proof of people is the echo of their voices. Then the setting sun slips through the trees and lights the moss again, a small return of warmth after the silence. The poem matters because it makes emptiness feel full rather than hollow, and it is a perfect example of his painter's eye and Zen calm.",
+  "relatedCulture": ["wang-wei", "nature-poetry", "zen-buddhism", "mountains-in-poetry"]
+}

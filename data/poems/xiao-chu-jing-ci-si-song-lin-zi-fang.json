@@ -1,0 +1,45 @@
+{
+  "slug": "xiao-chu-jing-ci-si-song-lin-zi-fang",
+  "title": "晓出净慈寺送林子方",
+  "pinyin": "Xiǎo Chū Jìng Cí Sì Sòng Lín Zǐfāng",
+  "englishTitle": "Leaving Jingci Temple at Dawn to See Lin Zifang Off",
+  "author": "Yang Wanli",
+  "authorPinyin": "Yáng Wànlǐ",
+  "authorCn": "杨万里",
+  "dynasty": "Song",
+  "difficulty": 3,
+  "themes": ["west-lake", "summer", "lotus"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/xiao-chu-jing-ci-si-song-lin-zi-fang/full.mp3",
+    "lines": [
+      "/audio/poems/xiao-chu-jing-ci-si-song-lin-zi-fang/line-1.mp3",
+      "/audio/poems/xiao-chu-jing-ci-si-song-lin-zi-fang/line-2.mp3",
+      "/audio/poems/xiao-chu-jing-ci-si-song-lin-zi-fang/line-3.mp3",
+      "/audio/poems/xiao-chu-jing-ci-si-song-lin-zi-fang/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "毕竟西湖六月中",
+      "风光不与四时同",
+      "接天莲叶无穷碧",
+      "映日荷花别样红"
+    ],
+    "translation": [
+      "after all, it is mid-summer at west lake",
+      "the scenery here is unlike any other season",
+      "lotus leaves reach the sky in endless green",
+      "lotus flowers glow in the sun a special red"
+    ],
+    "pinyinLines": [
+      ["bì", "jìng", "xī", "hú", "liù", "yuè", "zhōng"],
+      ["fēng", "guāng", "bù", "yǔ", "sì", "shí", "tóng"],
+      ["jiē", "tiān", "lián", "yè", "wú", "qióng", "bì"],
+      ["yìng", "rì", "hé", "huā", "bié", "yàng", "hóng"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Written as a farewell to a friend, the poem never mentions parting and instead fills the eye with West Lake in midsummer. Green lotus leaves run to the horizon and the flowers burn red against the sun. The vast, colour-saturated scene made these lines the classic picture of Hangzhou's lotus season.",
+  "relatedCulture": ["west-lake", "lotus-symbolism", "yang-wanli"]
+}

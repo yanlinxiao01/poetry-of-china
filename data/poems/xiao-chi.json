@@ -1,0 +1,45 @@
+{
+  "slug": "xiao-chi",
+  "title": "小池",
+  "pinyin": "Xiǎo Chí",
+  "englishTitle": "A Small Pond",
+  "author": "Yang Wanli",
+  "authorPinyin": "Yáng Wànlǐ",
+  "authorCn": "杨万里",
+  "dynasty": "Song",
+  "difficulty": 1,
+  "themes": ["summer", "nature", "stillness"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/xiao-chi/full.mp3",
+    "lines": [
+      "/audio/poems/xiao-chi/line-1.mp3",
+      "/audio/poems/xiao-chi/line-2.mp3",
+      "/audio/poems/xiao-chi/line-3.mp3",
+      "/audio/poems/xiao-chi/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "泉眼无声惜细流",
+      "树阴照水爱晴柔",
+      "小荷才露尖尖角",
+      "早有蜻蜓立上头"
+    ],
+    "translation": [
+      "the spring trickles silently, sparing its thin stream",
+      "the tree shade rests on the water, loving the soft clear light",
+      "a young lotus has just shown its pointed tip",
+      "already a dragonfly has settled on it"
+    ],
+    "pinyinLines": [
+      ["quán", "yǎn", "wú", "shēng", "xī", "xì", "liú"],
+      ["shù", "yīn", "zhào", "shuǐ", "ài", "qíng", "róu"],
+      ["xiǎo", "hé", "cái", "lù", "jiān", "jiān", "jiǎo"],
+      ["zǎo", "yǒu", "qīng", "tíng", "lì", "shàng", "tóu"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Yang Wanli watches a pond so small that its details become the whole world: a whisper of water, shade on the surface, one lotus bud and a waiting dragonfly. The poem is famous for catching a single instant of early summer before it changes. Its freshness comes from giving the spring and the shade feelings of their own.",
+  "relatedCulture": ["song-dynasty-nature-poetry", "lotus-symbolism", "yang-wanli"]
+}

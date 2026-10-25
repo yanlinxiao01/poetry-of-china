@@ -1,0 +1,60 @@
+{
+  "slug": "you-zi-yin",
+  "title": "游子吟",
+  "pinyin": "Yóu Zǐ Yín",
+  "englishTitle": "Song of the Wandering Son",
+  "author": "Meng Jiao",
+  "authorPinyin": "Mèng Jiāo",
+  "authorCn": "孟郊",
+  "dynasty": "Tang",
+  "difficulty": 3,
+  "themes": ["mother", "family", "gratitude"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/you-zi-yin/full.mp3",
+    "lines": [
+      "/audio/poems/you-zi-yin/line-1.mp3",
+      "/audio/poems/you-zi-yin/line-2.mp3",
+      "/audio/poems/you-zi-yin/line-3.mp3",
+      "/audio/poems/you-zi-yin/line-4.mp3",
+      "/audio/poems/you-zi-yin/line-5.mp3",
+      "/audio/poems/you-zi-yin/line-6.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "慈母手中线",
+      "游子身上衣",
+      "临行密密缝",
+      "意恐迟迟归",
+      "谁言寸草心",
+      "报得三春晖"
+    ],
+    "translation": [
+      "Thread in a kind mother's hand",
+      "Becomes the coat on her wandering son",
+      "She sews it tight, stitch upon stitch, before he leaves",
+      "Fearing his return will be long delayed",
+      "Who says the heart of a blade of grass",
+      "Can ever repay the sunshine of three springs"
+    ],
+    "pinyinLines": [
+      ["cí", "mǔ", "shǒu", "zhōng", "xiàn"],
+      ["yóu", "zǐ", "shēn", "shàng", "yī"],
+      ["lín", "xíng", "mì", "mì", "féng"],
+      ["yì", "kǒng", "chí", "chí", "guī"],
+      ["shuí", "yán", "cùn", "cǎo", "xīn"],
+      ["bào", "dé", "sān", "chūn", "huī"]
+    ]
+  },
+  "annotations": {
+    "游子": "wandering son — a child living far from home",
+    "临行": "on the eve of departure",
+    "缝": "féng — to sew (verb)",
+    "意恐": "anxiously fearing that",
+    "寸草": "an inch-tall blade of grass — the child, small and fragile",
+    "三春晖": "the warm sunshine of all three months of spring — a mother's boundless love"
+  },
+  "appreciation": "China's definitive poem about mothers. Meng Jiao builds it on one domestic image — a mother sewing her son's coat the night before he leaves, stitching tighter because tighter stitches last longer on a long road. The final metaphor is devastating: a blade of grass can never repay the spring sun that made it grow.",
+  "relatedCulture": ["filial-piety", "mothers-in-poetry", "meng-jiao"]
+}

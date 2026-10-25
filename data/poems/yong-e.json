@@ -1,0 +1,51 @@
+{
+  "slug": "yong-e",
+  "title": "咏鹅",
+  "pinyin": "Yǒng É",
+  "englishTitle": "Ode to the Goose",
+  "author": "Luo Binwang",
+  "authorPinyin": "Luò Bīnwáng",
+  "authorCn": "骆宾王",
+  "dynasty": "Tang",
+  "difficulty": 1,
+  "themes": ["animals", "childhood", "nature"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/yong-e/full.mp3",
+    "lines": [
+      "/audio/poems/yong-e/line-1.mp3",
+      "/audio/poems/yong-e/line-2.mp3",
+      "/audio/poems/yong-e/line-3.mp3",
+      "/audio/poems/yong-e/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "鹅，鹅，鹅",
+      "曲项向天歌",
+      "白毛浮绿水",
+      "红掌拨清波"
+    ],
+    "translation": [
+      "Geese, geese, geese",
+      "Bend their necks and sing to the sky",
+      "White feathers float on green water",
+      "Red feet paddle through clear waves"
+    ],
+    "pinyinLines": [
+      ["é", "é", "é"],
+      ["qū", "xiàng", "xiàng", "tiān", "gē"],
+      ["bái", "máo", "fú", "lǜ", "shuǐ"],
+      ["hóng", "zhǎng", "bō", "qīng", "bō"]
+    ]
+  },
+  "annotations": {
+    "曲项": "bend the neck — describing the goose's posture",
+    "向天歌": "sing toward the sky",
+    "浮": "to float",
+    "掌": "webbed foot (of the goose)",
+    "拨": "to paddle, to push aside"
+  },
+  "appreciation": "Written by Luo Binwang at age seven, this is often the first poem Chinese children learn. In just four lines it paints a vivid picture: white feathers, green water, red webbed feet, clear waves. The repetition of 'goose, goose, goose' mimics a child's delighted cry upon seeing the birds.",
+  "relatedCulture": ["children-poetry", "animals-in-poetry", "luo-binwang"]
+}

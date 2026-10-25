@@ -1,0 +1,67 @@
+{
+  "slug": "wu-ti",
+  "title": "无题·相见时难",
+  "pinyin": "Wú Tí · Xiāng Jiàn Shí Nán",
+  "englishTitle": "Untitled: Hard to Meet, Hard to Part",
+  "author": "Li Shangyin",
+  "authorPinyin": "Lǐ Shāngyǐn",
+  "authorCn": "李商隐",
+  "dynasty": "Tang",
+  "difficulty": 5,
+  "themes": ["love", "parting", "devotion", "longing"],
+  "featured": true,
+  "audio": {
+    "full": "/audio/poems/wu-ti/full.mp3",
+    "lines": [
+      "/audio/poems/wu-ti/line-1.mp3",
+      "/audio/poems/wu-ti/line-2.mp3",
+      "/audio/poems/wu-ti/line-3.mp3",
+      "/audio/poems/wu-ti/line-4.mp3",
+      "/audio/poems/wu-ti/line-5.mp3",
+      "/audio/poems/wu-ti/line-6.mp3",
+      "/audio/poems/wu-ti/line-7.mp3",
+      "/audio/poems/wu-ti/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "相见时难别亦难",
+      "东风无力百花残",
+      "春蚕到死丝方尽",
+      "蜡炬成灰泪始干",
+      "晓镜但愁云鬓改",
+      "夜吟应觉月光寒",
+      "蓬山此去无多路",
+      "青鸟殷勤为探看"
+    ],
+    "translation": [
+      "Meeting is hard, and parting is hard too",
+      "The east wind is feeble; a hundred flowers fade",
+      "The spring silkworm spins until it dies",
+      "The candle's tears dry only when it burns to ash",
+      "At dawn she fears the mirror shows her hair turning gray",
+      "Chanting at night, she must feel the moonlight's chill",
+      "Mount Penglai is not so far from here",
+      "May the blue bird fly faithfully to look upon you"
+    ],
+    "pinyinLines": [
+      ["xiāng", "jiàn", "shí", "nán", "bié", "yì", "nán"],
+      ["dōng", "fēng", "wú", "lì", "bǎi", "huā", "cán"],
+      ["chūn", "cán", "dào", "sǐ", "sī", "fāng", "jìn"],
+      ["là", "jù", "chéng", "huī", "lèi", "shǐ", "gān"],
+      ["xiǎo", "jìng", "dàn", "chóu", "yún", "bìn", "gǎi"],
+      ["yè", "yín", "yīng", "jué", "yuè", "guāng", "hán"],
+      ["péng", "shān", "cǐ", "qù", "wú", "duō", "lù"],
+      ["qīng", "niǎo", "yīn", "qín", "wèi", "tàn", "kàn"]
+    ]
+  },
+  "annotations": {
+    "春蚕": "spring silkworm — a symbol of devotion; 丝 (silk) puns with 思 (longing)",
+    "蜡炬": "candle — its dripping wax resembles tears",
+    "云鬓": "cloud-like hair — a woman's beautiful hair",
+    "蓬山": "Mount Penglai — a mythical island of immortals",
+    "青鸟": "blue bird — the mythical messenger of the Queen Mother of the West"
+  },
+  "appreciation": "Li Shangyin's untitled love poems are the most enigmatic in Chinese literature. The third and fourth lines — the silkworm spinning until death, the candle weeping until ash — became China's defining metaphor for undying devotion, later adopted to honor teachers. Every couplet is dense with wordplay and myth.",
+  "relatedCulture": ["li-shangyin", "love-poetry", "silk-and-longing", "chinese-mythology"]
+}

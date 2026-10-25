@@ -1,0 +1,61 @@
+{
+  "slug": "deng-gao",
+  "title": "登高",
+  "pinyin": "Dēng Gāo",
+  "englishTitle": "Climbing High",
+  "author": "Du Fu",
+  "authorPinyin": "Dù Fǔ",
+  "authorCn": "杜甫",
+  "dynasty": "Tang",
+  "difficulty": 6,
+  "themes": ["autumn", "sorrow", "aging", "river"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/deng-gao/full.mp3",
+    "lines": [
+      "/audio/poems/deng-gao/line-1.mp3",
+      "/audio/poems/deng-gao/line-2.mp3",
+      "/audio/poems/deng-gao/line-3.mp3",
+      "/audio/poems/deng-gao/line-4.mp3",
+      "/audio/poems/deng-gao/line-5.mp3",
+      "/audio/poems/deng-gao/line-6.mp3",
+      "/audio/poems/deng-gao/line-7.mp3",
+      "/audio/poems/deng-gao/line-8.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "风急天高猿啸哀",
+      "渚清沙白鸟飞回",
+      "无边落木萧萧下",
+      "不尽长江滚滚来",
+      "万里悲秋常作客",
+      "百年多病独登台",
+      "艰难苦恨繁霜鬓",
+      "潦倒新停浊酒杯"
+    ],
+    "translation": [
+      "the wind is sharp, the sky is high, gibbons wail mournfully",
+      "the islet is clear, the sand is white, birds circle back",
+      "leaves fall without end from the boundless woods",
+      "the endless long river rolls on toward him",
+      "ten thousand miles from home, i grieve in autumn and live as a guest",
+      "in a life of a hundred years and many illnesses, i climb this terrace alone",
+      "hardship and bitter regret have frosted my temples",
+      "down and out, i have just given up my cup of cloudy wine"
+    ],
+    "pinyinLines": [
+      ["fēng", "jí", "tiān", "gāo", "yuán", "xiào", "āi"],
+      ["zhǔ", "qīng", "shā", "bái", "niǎo", "fēi", "huí"],
+      ["wú", "biān", "luò", "mù", "xiāo", "xiāo", "xià"],
+      ["bú", "jìn", "cháng", "jiāng", "gǔn", "gǔn", "lái"],
+      ["wàn", "lǐ", "bēi", "qiū", "cháng", "zuò", "kè"],
+      ["bǎi", "nián", "duō", "bìng", "dú", "dēng", "tái"],
+      ["jiān", "nán", "kǔ", "hèn", "fán", "shuāng", "bìn"],
+      ["liáo", "dǎo", "xīn", "tíng", "zhuó", "jiǔ", "bēi"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Du Fu stands alone on a high terrace in late autumn, while wind, gibbons, falling leaves, and the endless Yangtze press in from every direction. The landscape is vast and the human figure is small, sick, and far from home. The poem matters because its strict parallel couplets hold all that grief in perfect form, and it is often called the greatest regulated verse in Chinese.",
+  "relatedCulture": ["du-fu", "autumn-in-poetry", "regulated-verse", "double-ninth-festival"]
+}

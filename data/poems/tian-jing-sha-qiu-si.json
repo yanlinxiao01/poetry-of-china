@@ -1,0 +1,49 @@
+{
+  "slug": "tian-jing-sha-qiu-si",
+  "title": "天净沙·秋思",
+  "pinyin": "Tiān Jìng Shā · Qiū Sī",
+  "englishTitle": "Autumn Thoughts",
+  "author": "Ma Zhiyuan",
+  "authorPinyin": "Mǎ Zhìyuǎn",
+  "authorCn": "马致远",
+  "dynasty": "Yuan",
+  "difficulty": 3,
+  "themes": ["autumn", "travel", "homesickness"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/tian-jing-sha-qiu-si/full.mp3",
+    "lines": [
+      "/audio/poems/tian-jing-sha-qiu-si/line-1.mp3",
+      "/audio/poems/tian-jing-sha-qiu-si/line-2.mp3",
+      "/audio/poems/tian-jing-sha-qiu-si/line-3.mp3",
+      "/audio/poems/tian-jing-sha-qiu-si/line-4.mp3",
+      "/audio/poems/tian-jing-sha-qiu-si/line-5.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "枯藤老树昏鸦",
+      "小桥流水人家",
+      "古道西风瘦马",
+      "夕阳西下",
+      "断肠人在天涯"
+    ],
+    "translation": [
+      "withered vines, an old tree, a crow at dusk",
+      "a small bridge, flowing water, a few homes",
+      "an ancient road, the west wind, a lean horse",
+      "the sun goes down in the west",
+      "a heartbroken man is at the end of the world"
+    ],
+    "pinyinLines": [
+      ["kū", "téng", "lǎo", "shù", "hūn", "yā"],
+      ["xiǎo", "qiáo", "liú", "shuǐ", "rén", "jiā"],
+      ["gǔ", "dào", "xī", "fēng", "shòu", "mǎ"],
+      ["xī", "yáng", "xī", "xià"],
+      ["duàn", "cháng", "rén", "zài", "tiān", "yá"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Nine images are stacked without a verb, and the autumn landscape does all the speaking: dead vines, an old tree, a crow, a thin horse on an old road. The warm cottages by the bridge belong to other people, not to the traveller. The final line names the ache the whole picture has been building, making this the most famous short song of the Yuan dynasty.",
+  "relatedCulture": ["yuan-qu", "autumn-in-poetry", "travel-and-exile"]
+}

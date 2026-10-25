@@ -1,0 +1,51 @@
+{
+  "slug": "chu-sai",
+  "title": "出塞",
+  "pinyin": "Chū Sài",
+  "englishTitle": "On the Frontier",
+  "author": "Wang Changling",
+  "authorPinyin": "Wáng Chānglíng",
+  "authorCn": "王昌龄",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["frontier", "patriotism", "war"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/chu-sai/full.mp3",
+    "lines": [
+      "/audio/poems/chu-sai/line-1.mp3",
+      "/audio/poems/chu-sai/line-2.mp3",
+      "/audio/poems/chu-sai/line-3.mp3",
+      "/audio/poems/chu-sai/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "秦时明月汉时关",
+      "万里长征人未还",
+      "但使龙城飞将在",
+      "不教胡马度阴山"
+    ],
+    "translation": [
+      "The same moon as in Qin times, the same passes as in Han",
+      "Ten thousand miles of campaign, and the men have not returned",
+      "If only the Flying General of Dragon City were here",
+      "No barbarian horse would dare cross the Yin Mountains"
+    ],
+    "pinyinLines": [
+      ["qín", "shí", "míng", "yuè", "hàn", "shí", "guān"],
+      ["wàn", "lǐ", "cháng", "zhēng", "rén", "wèi", "huán"],
+      ["dàn", "shǐ", "lóng", "chéng", "fēi", "jiàng", "zài"],
+      ["bù", "jiào", "hú", "mǎ", "dù", "yīn", "shān"]
+    ]
+  },
+  "annotations": {
+    "秦时明月汉时关": "interlocked phrasing — 'the moon of Qin, the passes of Han' together mean 'timeless frontier'",
+    "飞将": "the Flying General — Li Guang, a Han dynasty hero the nomads feared",
+    "教": "here read jiào — to let, to allow",
+    "胡马": "horses of the northern nomads — shorthand for invading forces",
+    "阴山": "the Yin Mountains, a natural defensive line in today's Inner Mongolia"
+  },
+  "appreciation": "Often called the greatest frontier quatrain of the Tang. The first line collapses a thousand years into one image: the moon that saw Qin soldiers still watches Han passes, and still watches us. The lament is quiet — dynasties change, the war never ends — before flaring into a wish for a legendary general who could end it.",
+  "relatedCulture": ["frontier-poetry", "general-li-guang", "qin-han-interlock"]
+}

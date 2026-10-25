@@ -1,0 +1,45 @@
+{
+  "slug": "yin-hu-shang-chu-qing-hou-yu",
+  "title": "饮湖上初晴后雨",
+  "pinyin": "Yǐn Hú Shàng Chū Qíng Hòu Yǔ",
+  "englishTitle": "Drinking on the Lake, Clear Then Rainy",
+  "author": "Su Shi",
+  "authorPinyin": "Sū Shì",
+  "authorCn": "苏轼",
+  "dynasty": "Song",
+  "difficulty": 3,
+  "themes": ["west-lake", "rain", "beauty"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/yin-hu-shang-chu-qing-hou-yu/full.mp3",
+    "lines": [
+      "/audio/poems/yin-hu-shang-chu-qing-hou-yu/line-1.mp3",
+      "/audio/poems/yin-hu-shang-chu-qing-hou-yu/line-2.mp3",
+      "/audio/poems/yin-hu-shang-chu-qing-hou-yu/line-3.mp3",
+      "/audio/poems/yin-hu-shang-chu-qing-hou-yu/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "水光潋滟晴方好",
+      "山色空蒙雨亦奇",
+      "欲把西湖比西子",
+      "淡妆浓抹总相宜"
+    ],
+    "translation": [
+      "the water's shimmer is lovely in clear weather",
+      "the hills' misty colour is wondrous in the rain",
+      "i would liken west lake to lady xishi",
+      "light makeup or heavy, she is always beautiful"
+    ],
+    "pinyinLines": [
+      ["shuǐ", "guāng", "liàn", "yàn", "qíng", "fāng", "hǎo"],
+      ["shān", "sè", "kōng", "méng", "yǔ", "yì", "qí"],
+      ["yù", "bǎ", "xī", "hú", "bǐ", "xī", "zǐ"],
+      ["dàn", "zhuāng", "nóng", "mǒ", "zǒng", "xiāng", "yí"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Su Shi drinks on West Lake through a change in weather and finds both sun and rain beautiful. The comparison of the lake to Xishi, the legendary beauty, lets him argue that true beauty needs no particular condition to shine. The poem gave West Lake its enduring name, Xizi Lake.",
+  "relatedCulture": ["west-lake", "xishi-legend", "su-shi", "rain-in-poetry"]
+}

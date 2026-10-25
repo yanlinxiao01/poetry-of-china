@@ -1,0 +1,45 @@
+{
+  "slug": "jue-ju-liang-ge-huang-li",
+  "title": "绝句·两个黄鹂",
+  "pinyin": "Jué Jù · Liǎng Gè Huáng Lí",
+  "englishTitle": "Quatrain: Two Orioles",
+  "author": "Du Fu",
+  "authorPinyin": "Dù Fǔ",
+  "authorCn": "杜甫",
+  "dynasty": "Tang",
+  "difficulty": 2,
+  "themes": ["spring", "landscape", "birds"],
+  "featured": false,
+  "audio": {
+    "full": "/audio/poems/jue-ju-liang-ge-huang-li/full.mp3",
+    "lines": [
+      "/audio/poems/jue-ju-liang-ge-huang-li/line-1.mp3",
+      "/audio/poems/jue-ju-liang-ge-huang-li/line-2.mp3",
+      "/audio/poems/jue-ju-liang-ge-huang-li/line-3.mp3",
+      "/audio/poems/jue-ju-liang-ge-huang-li/line-4.mp3"
+    ]
+  },
+  "content": {
+    "original": [
+      "两个黄鹂鸣翠柳",
+      "一行白鹭上青天",
+      "窗含西岭千秋雪",
+      "门泊东吴万里船"
+    ],
+    "translation": [
+      "two orioles sing in the emerald willows",
+      "a row of white egrets climbs into the blue sky",
+      "my window frames the thousand-year snow of the western ridge",
+      "boats that sailed ten thousand miles from eastern wu lie at my door"
+    ],
+    "pinyinLines": [
+      ["liǎng", "gè", "huáng", "lí", "míng", "cuì", "liǔ"],
+      ["yì", "háng", "bái", "lù", "shàng", "qīng", "tiān"],
+      ["chuāng", "hán", "xī", "lǐng", "qiān", "qiū", "xuě"],
+      ["mén", "bó", "dōng", "wú", "wàn", "lǐ", "chuán"]
+    ]
+  },
+  "annotations": {},
+  "appreciation": "Two orioles, a line of egrets, distant snow, and ships from far away are packed into four lines like a painted scroll. Yellow against green, white against blue, and a window frame that turns a vast landscape into something intimate. The poem matters because Du Fu builds a whole bright world from color and scale here, proving that his eye for joy was as sharp as his eye for grief.",
+  "relatedCulture": ["du-fu", "landscape-poetry", "spring-in-poetry"]
+}
